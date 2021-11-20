@@ -1,7 +1,9 @@
 # social_integration
 
            
-                             Welcome to Eyu Tech Follow me on youtube https://www.youtube.com/watch?v=V7wnxbHl9iM
+                     Welcome to Eyu Tech Follow me on youtube https://www.youtube.com/watch?v=V7wnxbHl9iM
+                     
+                     guidance for this project please vist https://www.youtube.com/watch?v=NhiQCd-bync
 
 Today we will see SocialIntegrationLogin Spark Foundation task#5 with out Firebase.
 
